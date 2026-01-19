@@ -16,11 +16,17 @@ I am a full-stack engineer focused on designing and building cloud-native, end-t
 ### 🧠 Technical Skills 
 
 **Languages:** Python, Java, C++, C, Dart, JavaScript, TypeScript
+
 **Frameworks & Libraries:** Flutter, React.js, Next.js, Node.js, Flask, Retrofit, Material Components, Tailwind CSS 
+
 **ML Libraries:** TensorFlow, Keras, PyTorch, scikit-learn 
+
 **Tools & Platforms:** Android Studio, Visual Studio Code, Visual Studio Community, Jupyter Notebook, Google Colab, Git, AWS(EC2, Lambda, S3, DynamoDB, IAM), Vercel, Render  
+
 **Databases:** Firebase (Realtime Database, Storage), MySQL, PostgreSQL, SQLite, DynamoDB, Redis, Oracle Object Storage
+
 **Tools & Platforms:** Android Studio, VS Code, Jupyter, Google Colab, AWS (Lambda, EC2, S3), Git
+
 **Computer Science Fundamentals:** Object-Oriented Programming, Data Structures & Algorithms, Database Systems, Mobile Application Development, Artificial Intelligence, Big Data Analysis, Data Science
 
 ---
