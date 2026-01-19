@@ -8,8 +8,8 @@ I am a full-stack engineer focused on designing and building cloud-native, end-t
 
 * 📧 Email: [mianmhuzaifa@gmail.com](mailto:mianmhuzaifa@gmail.com)
 * 📱 Phone: +92 308 6142627
-* 🔗 LinkedIn: [linkedin.com/in/muhammad-huzaifa-5179b1195](https://www.linkedin.com/in/muhammad-huzaifa-5179b1195)
-* 🔗 Portfolio: [https://huzaifahub.vercel.app](https://huzaifahub.vercel.app)
+* 🔗 LinkedIn: [muhammadhuzaifa](https://www.linkedin.com/in/muhammad-huzaifa-5179b1195)
+* 🔗 Portfolio: [portfolio](https://huzaifahub.vercel.app)
 
 ---
 
